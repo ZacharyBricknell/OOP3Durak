@@ -7,12 +7,35 @@ namespace durak_final
 {
     public class Card
     {
-        private int rank;
-        private int suit;
+        enum rank
+        {
+            Ace,
+            Two,
+            Three,
+            Four,
+            Five,
+            Six,
+            Seven,
+            Eight,
+            Nine,
+            Ten,
+            Jack,
+            Queen,
+            King,
+        }
+        enum suit
+        {
+            Diamonds,
+            Hearts,
+            Clubs,
+            Spades
+        }
+        //private int suit;
         private int isTrump;
 
         public void ToString()
         {
+
             throw new System.NotImplementedException();
         }
 

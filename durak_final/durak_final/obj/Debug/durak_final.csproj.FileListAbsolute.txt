@@ -1,0 +1,10 @@
+C:\GIT\OOP3Project\durak_final\durak_final\bin\Debug\durak_final.exe.config
+C:\GIT\OOP3Project\durak_final\durak_final\bin\Debug\durak_final.exe
+C:\GIT\OOP3Project\durak_final\durak_final\bin\Debug\durak_final.pdb
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.csprojAssemblyReference.cache
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.AboutForm.resources
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.DurakMain.resources
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.Properties.Resources.resources
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.csproj.GenerateResource.cache
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.exe
+C:\GIT\OOP3Project\durak_final\durak_final\obj\Debug\durak_final.pdb

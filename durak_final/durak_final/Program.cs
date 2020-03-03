@@ -16,7 +16,7 @@ namespace durak_final
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Cards());
+            Application.Run(new DurakMain());
         }
     }
 }

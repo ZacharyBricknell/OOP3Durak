@@ -10,13 +10,16 @@ using System.Windows.Forms;
 
 namespace durak_final
 {
-    public partial class Cards : Form
+    public partial class AboutForm : Form
     {
-        private int rdd;
-
-        public Cards()
+        public AboutForm()
         {
             InitializeComponent();
+        }
+
+        private void ExitButtion_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

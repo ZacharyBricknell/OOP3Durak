@@ -5,11 +5,12 @@ using System.Text;
 
 namespace durak_final
 {
-    public enum CardSuitEnum
-    {
-        Heart,
-        Diamond,
-        Club,
-        Spade
-    }
+    // moved to the card class
+    //public enum CardSuitEnum
+    //{
+    //    Heart,
+    //    Diamond,
+    //    Club,
+    //    Spade
+    //}
 }
